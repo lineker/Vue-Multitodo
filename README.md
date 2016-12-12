@@ -1,6 +1,8 @@
-# vue_todos
+# vue_multitodos
 
-> my implementation of todosmvc in vuejs
+> my implementation of a more complex todosmvc in vuejs
+> this is where you manage _multiple_ todo lists
+> hosted on firebase @ https://multitodo-20842.firebaseapp.com/
 
 ## Build Setup
 
